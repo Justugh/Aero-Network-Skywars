@@ -1,0 +1,16 @@
+{
+  "ids": [
+    "skywars_solo"
+  ],
+  "cache": 2,
+  "portRangeMin": -1,
+  "portRangeMax": -1,
+  "envVars": [
+    "SOMETHING=NOTHING"
+  ],
+  "includedPlugins": [
+    "Enflow"
+  ],
+  "serverType": "SERVER_GAME",
+  "world": "skywars_test.zip"
+}

@@ -1,0 +1,4 @@
+name: Skywars
+version: ${project.version}
+main: net.aeronetwork.skywars.SkyWarsCore
+depend: [AeroCore, Enflow]
